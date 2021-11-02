@@ -3,9 +3,8 @@ import java.util.*;
  * The Student class represents a student in a student administration system.
  * It holds the student details relevant in our context.
  * 
- * @author Michael Kölling and David Barnes
- * Modified by Derek Peacock & Nicholas Day
- * @version 2021-08-18
+ * @author Alex Coardos
+ * @version 28/10/2021
  */
 public class Student
 {
@@ -24,7 +23,7 @@ public class Student
      */
     public Student()
     {
-        this("Derek", 12345678);
+        this("Alex Coardos", 22039005);
     }
     
     /**
